@@ -1,0 +1,28 @@
+.text-center{
+  text-align: center;
+}
+
+.bg-red{
+  background: rgb(26, 20, 20);
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
+.footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
